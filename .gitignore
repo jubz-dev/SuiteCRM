@@ -2,3 +2,7 @@ cache/prod/
 public/legacy/cache/
 vendor/
 info.txt
+.env.local
+public/legacy/config.php
+public/legacy/config_si.php
+database/
